@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 👀 Oi! Boas-vindas ao meu Github!
-O meu nome é **Gabriel Ferreira**, tenho 17 anos e "brinco" com programação desde os meus 12 anos. Inicialmente em JavaScript, e migrando para Java eventualmente.
+O meu nome é **Gabriel Ferreira**, tenho 17 anos e "brinco" com programação desde os meus 13 anos. Inicialmente em JavaScript, e migrando para Java eventualmente.
 
 <!--
 **astevy/astevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
