@@ -1,5 +1,5 @@
 # 👀 Oi! Boas-vindas ao meu Github!
-O meu nome é **Gabriel Ferreira**, tenho 17 anos e "brinco" com programação desde os meus 13 anos. Inicialmente em JavaScript, e migrando para Java eventualmente.
+O meu nome é **Gabriel Ferreira**, tenho 17 anos e mexo com programação desde os meus 12 anos. Inicialmente em JavaScript, e migrando para Java eventualmente.
 
 # 🗺️ Tecnologias!
 [![kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86-lightgrey?labelColor=B125EA&logo=Kotlin&style=for-the-badge&logoColor=pink)](https://kotlinlang.org/)
